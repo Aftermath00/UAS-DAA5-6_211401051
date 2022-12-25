@@ -2,7 +2,7 @@
 
 1. Buat lah kata kata acak(minimal 50 karakter) lalu cari kata kata dalam kata kata acak yang telah di buat. Lakukan dengan algoritma Knuth-Morris-Pratt, buktikan ketika tidak di temukan, dan buktikan ketika telah di temukan. dan buatlah gambarannya secara manual seperti di modul.(WAJIB)
 
-- Algorithm
+### Algorithm
 
 * The first loop is used to iterate over the characters of the text. Each iteration of the loop compares the current character of the text to the current character of the pattern. If there is a match, the algorithm moves on to the next character of the pattern and the next character of the text.
 
